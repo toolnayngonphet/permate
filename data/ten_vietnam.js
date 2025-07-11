@@ -1,0 +1,32 @@
+export const ds_ten = [
+  // 50 tên gốc của bạn
+  "Anh", "Bình", "Châu", "Dũng", "Giang", "Hiếu", "Huy", "Khánh", "Lan",
+  "Linh", "Minh", "Nam", "Ngọc", "Phúc", "Quang", "Sơn", "Thảo", "Trang",
+  "Tuấn", "Vy", "Yến", "Hương", "Hạnh", "Đức", "Tâm", "Trung", "Tiến",
+  "Tú", "Thịnh", "Hải", "Nhung", "Mai", "Thanh", "Thủy", "Loan", "Diễm",
+  "Kiều", "Hằng", "My", "Như", "Thùy", "Tường", "Đan", "Bảo", "Lộc",
+  "Việt", "Long", "Khoa", "Quỳnh", "Hân",
+  // 200 tên mới được bổ sung
+  "Ái", "An", "Ấn", "Ân", "Bách", "Bằng", "Bích", "Chi", "Chiến", "Cương",
+  "Cường", "Đại", "Danh", "Đạo", "Đạt", "Điệp", "Định", "Doanh", "Duy",
+  "Duyên", "Dương", "Gia", "Hà", "Hào", "Hậu", "Hiền", "Hiệp", "Hoa",
+  "Hòa", "Hoài", "Hoàn", "Hoàng", "Hội", "Hồng", "Hùng", "Khải", "Khang",
+  "Khanh", "Khôi", "Khởi", "Kiên", "Kiệt", "Kim", "Kỳ", "Lam", "Lâm",
+  "Lập", "Ly", "Lý", "Mạnh", "Mẫn", "Minh", "Mỹ", "Nga", "Ngà", "Ngân",
+  "Nghĩa", "Nghi", "Nguyên", "Nguyệt", "Nhã", "Nhân", "Nhật", "Nhi", "Nhiên",
+  "Phong", "Phương", "Phượng", "Quân", "Quốc", "Quyên", "Quyết", "Quyền",
+  "San", "Sang", "Sĩ", "Sinh", "Tài", "Tân", "Thạch", "Thái", "Thắng",
+  "Thành", "Thảo", "Thế", "Thi", "Thiên", "Thiện", "Thịnh", "Thơ", "Thọ",
+  "Thông", "Thư", "Thương", "Thường", "Tín", "Toàn", "Toản", "Trà", "Trâm",
+  "Trí", "Triết", "Triều", "Trinh", "Trúc", "Trực", "Trường", "Tú", "Tùng",
+  "Tuyền", "Uy", "Uyên", "Vân", "Văn", "Vĩ", "Vĩnh", "Vinh", "Vương", "Vượng",
+  "Xuân", "Sa", "Sam", "San", "Sanh", "Sáng", "Sương", "Tố", "Tuệ", "Tuyết",
+  "Vũ", "Cát", "Cẩm", "Cẩn", "Chấn", "Chính", "Chung", "Cúc", "Đan", "Điền",
+  "Đoan", "Đôn", "Đông", "Đồng", "Giáp", "Giao", "Hạc", "Hạ", "Hàm", "Hàn",
+  "Hảo", "Hinh", "Huấn", "Huệ", "Kha", "Khai", "Khiêm", "Khuê", "Khương",
+  "Kiệm", "Kính", "Lai", "Lễ", "Lợi", "Luyến", "Lưu", "Mi", "Mộc", "Mộng",
+  "Nghiêm", "Nghị", "Niệm", "Nở", "Oanh", "Phát", "Phi", "Phỉ", "Phong",
+  "Phụng", "Sâm", "Sắc", "Sinh", "Tao", "Thăng", "Thắm", "Thục", "Thu",
+  "Thức", "Thuyết", "Tịch", "Tòng", "Túc", "Từ", "Tư", "Ty", "Vĩ", "Vị",
+  "Xuyến", "Y", "Dạ", "Di", "Diệu", "Đàm", "Đoàn", "Đồi", "Độ", "Gấm"
+];

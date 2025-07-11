@@ -1,0 +1,32 @@
+export const ds_ho = [
+  // 50 họ gốc của bạn
+  "Nguyễn", "Trần", "Lê", "Phạm", "Hoàng", "Huỳnh", "Phan", "Vũ", "Võ",
+  "Đặng", "Bùi", "Đỗ", "Hồ", "Ngô", "Dương", "Lý", "Đinh", "Trịnh", "Hà",
+  "Mai", "Tạ", "Tô", "Cao", "Lâm", "Quách", "Chu", "La", "Lương", "Thái",
+  "Châu", "Triệu", "Kiều", "Tăng", "Lưu", "Nghiêm", "Vương", "Thạch",
+  "Trương", "Âu", "Đoàn", "An", "Liễu", "Hứa", "Đàm", "Tống", "Vi",
+  "Phùng", "Danh", "Khổng", "Sơn",
+  // 200 họ mới được bổ sung
+  "Đào", "Dư", "Giang", "Hồng", "Kim", "Lại", "Mã", "Mạc", "Nhan", "Nhữ",
+  "Ninh", "Nông", "Phí", "Phó", "Phúc", "Phương", "Quàng", "Quản", "Quý",
+  "Sử", "Thân", "Thi", "Thiều", "Thịnh", "Tiêu", "Tôn", "Tôn Thất", "Từ",
+  "Uông", "Văn", "Vạn", "Bá", "Bạch", "Bảo", "Bế", "Biện", "Bình", "Cái",
+  "Cảnh", "Chế", "Chiêm", "Cổ", "Công", "Cung", "Diệp", "Doãn", "Đái",
+  "Đan", "Đậu", "Điền", "Đinh", "Đồng", "Đới", "Đức", "Gia", "Giải", "Giáp",
+  "Hạ", "Hàn", "Hàng", "Hề", "Hi", "Hình", "Hoa", "Hoắc", "Hy", "Kha",
+  "Khang", "Khiếu", "Khoa", "Khúc", "Khương", "Kỷ", "Lam", "Lã", "Lữ", "Lục",
+  "Mẫn", "Mạnh", "Mậu", "Miêu", "Minh", "Mộc", "Mục", "Nhạc", "Nhâm",
+  "Nhậm", "Niên", "Ông", "Phát", "Phi", "Phù", "Pi", "Quan", "Quyền", "Sa",
+  "Sái", "Sầm", "Sầm", "Sĩ", "Tào", "Tất", "Thang", "Thành", "Thào", "Thẩm",
+  "Thôi", "Thủy", "Tiếp", "Tiết", "Tòng", "Trác", "Trang", "Trì", "Trình",
+  "Trưng", "Tuấn", "Ty", "Ung", "Ứng", "Vĩnh", "Xa", "Xa", "Yên", "Bạc",
+  "Bì", "Cà", "Chung", "Cù", "Đơn", "Đường", "Đường", "Hồng", "Hùng", "Huy",
+  "Khâu", "Khưu", "Lai", "Lãnh", "Lỗ", "Lôi", "Lục", "Man", "Mẫn", "Ngân",
+  "Nghị", "Ngọ", "Ngụy", "Nhị", "Như", "Phòng", "Sướng", "Tề", "Thiện",
+  "Thời", "Thư", "Tiên", "Tín", "Tước", "Tuy", "Vạn", "Viên", "Vinh", "Vòng",
+  "Xử", "Cát", "Chử", "Cấn", "Diêu", "Đoàn", "Đống", "Đổng", "Đức", "Hàm",
+  "Hạnh", "Hiền", "Hiệp", "Hoàn", "Hội", "Hợp", "Hữu", "Ích", "Kỳ", "Lạc",
+  "Luyện", "Lực", "Mão", "Mậu", "Mẫn", "Nghi", "Nguyên", "Nhã", "Nhẫn",
+  "Phúc", "Quân", "Quảng", "Thục", "Thạc", "Thiệu", "Thuận", "Tích", "Tiệm",
+  "Tôn Nữ", "Uy", "Văn", "Việt", "Vỹ", "Xương", "Yến", "Ái", "Bàng", "Cam"
+];

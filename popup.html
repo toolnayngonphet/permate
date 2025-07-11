@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Super Data Filler</title>
+    <meta charset="UTF-8">
+    <style>
+        body { width: 450px; font-family: Arial, sans-serif; padding: 10px; }
+        .row { display: flex; align-items: center; margin-bottom: 8px; }
+        .row label { width: 100px; font-weight: bold; }
+        .row input { flex-grow: 1; padding: 5px; border: 1px solid #ccc; border-radius: 4px; }
+        .row button { margin-left: 5px; padding: 5px 8px; cursor: pointer; }
+        .main-buttons { display: flex; justify-content: space-around; margin: 15px 0; }
+        .main-buttons button { padding: 10px 20px; font-size: 16px; cursor: pointer; border-radius: 5px; border: none; color: white; }
+        #generateBtn { background-color: #4CAF50; }
+        hr { border: 1px solid #eee; margin: 15px 0; }
+        .captcha-section input { width: 100%; box-sizing: border-box; }
+        .fill-steps { text-align: center; margin-top: 15px; }
+        .fill-steps h3 { margin-bottom: 10px; }
+        .step-btn {
+            width: 80%;
+            padding: 8px;
+            margin-bottom: 5px;
+            background-color: #ff9800;
+            border: none;
+            color: white;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 14px;
+        }
+        .step-btn:hover { background-color: #f57c00; }
+        .step-btn:disabled { background-color: #ccc; cursor: not-allowed; }
+    </style>
+</head>
+<body>
+    <div class="main-buttons">
+        <button id="generateBtn">🚀 Tạo Mới</button>
+    </div>
+
+    <div id="data-fields">
+        </div>
+
+    <hr>
+    <div class="fill-steps">
+        <h3>Điền thông tin theo bước</h3>
+        <button class="step-btn" id="fillStep1Btn">Điền Lần 1</button>
+        <button class="step-btn" id="fillStep2Btn" disabled>Điền Lần 2 (sắp có)</button>
+        <button class="step-btn" id="fillStep3Btn" disabled>Điền Lần 3 (sắp có)</button>
+    </div>
+    <hr>
+
+    <div class="captcha-section">
+        <h3>Giải Captcha</h3>
+        <button id="solveCaptchaBtn">Giải Captcha trang hiện tại</button>
+        <p id="captchaStatus"></p>
+    </div>
+
+    <script type="module" src="popup.js"></script>
+</body>
+</html>
